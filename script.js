@@ -433,7 +433,7 @@ const dbmsQuestions = [
 
 
 
-// Function to render a single question
+
 const renderQuestion = (question, index, sectionId) => {
   const sectionContainer = document.getElementById(sectionId);
 
